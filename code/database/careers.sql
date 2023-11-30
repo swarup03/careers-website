@@ -14,8 +14,8 @@ CREATE TABLE applications (
 );
 
  CREATE TABLE jobs (
-     id INT NOT NULL auto_increment PRIMARY KEY ,
-     title VARCHAR(120) not null,applications
+     id INT NOT NULL auto_increment PRIMARY KEY,
+     title VARCHAR(120) not null,
      location VARCHAR(150) not null,
      email VARCHAR(100),
      phone_number VARCHAR(12),
