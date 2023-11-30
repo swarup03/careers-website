@@ -1,1 +1,6 @@
-
+![image](https://github.com/swarup03/careers-website/assets/101279309/c22c1cd1-b22b-44f9-a20b-86100bf759a4)
+![image](https://github.com/swarup03/careers-website/assets/101279309/54817cc1-c141-430d-9b57-1780e83240cd)
+![image](https://github.com/swarup03/careers-website/assets/101279309/a03c5e89-d82c-4d86-b841-b36cec1e58a2)
+![image](https://github.com/swarup03/careers-website/assets/101279309/47be16ec-f27e-4330-ba6b-18a5f4170744)
+![image](https://github.com/swarup03/careers-website/assets/101279309/bf550c8e-5d21-44a0-94db-7993d3b8b952)
+![image](https://github.com/swarup03/careers-website/assets/101279309/96f62161-5d3e-4c7b-a44b-0bb5c20805cf)
