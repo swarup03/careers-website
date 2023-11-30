@@ -1,0 +1,32 @@
+<div class="border m-4 p-4">
+  <p class="fs-2">Application Form</p>
+<form class="row g-3" method="post" action="/job/{{job[0][0]}}/apply">
+  <div class="col-md-6">
+    <label for="inputName4" class="form-label">Full Name</label>
+    <input type="text" name="applier_name" class="form-control" id="inputName4">
+  </div>
+  <div class="col-md-6">
+    <label for="inputEmail4" class="form-label">Email</label>
+    <input type="email" name="applier_email" class="form-control" id="inputEmail4">
+  </div>
+  <div class="col-md-6">
+    <label for="inputlinkedin4" class="form-label">LinkedIn Url</label>
+    <input type="url" class="form-control" name="applier_linkedin_url" id="inputlinkedin4">
+  </div>
+  <div class="col-md-6">
+    <label for="inputleetcode4" class="form-label">Leetcode Url</label>
+    <input type="url" class="form-control" name="applier_leetcode_url" id="inputleetcode4">
+  </div>
+  <div class="col-12">
+    <label for="inputEducation" class="form-label">Education</label>
+    <textarea type="text" class="form-control" name="applier_education_detail" id="inputEducation"></textarea>
+  </div>
+  <div class="col-12">
+    <label for="inputWork" class="form-label">Work Experience</label>
+    <textarea type="text" class="form-control" name="applier_work_experiencl" id="inputWork" ></textarea>
+  </div>
+  <div class="col-12">
+    <button type="submit" class="btn btn-primary">Apply</button>
+  </div>
+</form>
+</div>
